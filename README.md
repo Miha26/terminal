@@ -1,0 +1,1 @@
+This is a custom terminal with some of commands created usinc C language. The terminal has a help command to facilitate the use. The custom commands that I created are: move with the flags -i, -t, -S, copy with the flags -i, -r, -t, -v, driname and ls. 
